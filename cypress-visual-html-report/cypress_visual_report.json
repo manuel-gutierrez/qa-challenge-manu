@@ -1,0 +1,53 @@
+{
+  "total": 3,
+  "totalPassed": 3,
+  "totalFailed": 0,
+  "totalSuites": 1,
+  "suites": [
+    {
+      "name": "visual-testing-cypress.cy.js",
+      "path": "cypress/e2e/image-diff/visual-testing-cypress.cy.js",
+      "tests": [
+        {
+          "status": "pass",
+          "name": "visual-testing-cypress.cy-enterprise ind",
+          "percentage": 0,
+          "failureThreshold": 0,
+          "specPath": "cypress/e2e/image-diff/visual-testing-cypress.cy.js",
+          "specFilename": "visual-testing-cypress.cy.js",
+          "baselinePath": "cypress-visual-screenshots/baseline/visual-testing-cypress.cy-enterprise ind.png",
+          "diffPath": "",
+          "comparisonPath": "cypress-visual-screenshots/comparison/visual-testing-cypress.cy-enterprise ind.png"
+        },
+        {
+          "status": "pass",
+          "name": "visual-testing-cypress.cy-products",
+          "percentage": 0,
+          "failureThreshold": 0,
+          "specPath": "cypress/e2e/image-diff/visual-testing-cypress.cy.js",
+          "specFilename": "visual-testing-cypress.cy.js",
+          "baselinePath": "cypress-visual-screenshots/baseline/visual-testing-cypress.cy-products.png",
+          "diffPath": "",
+          "comparisonPath": "cypress-visual-screenshots/comparison/visual-testing-cypress.cy-products.png"
+        },
+        {
+          "status": "pass",
+          "name": "visual-testing-cypress.cy-view_cart",
+          "percentage": 0,
+          "failureThreshold": 0,
+          "specPath": "cypress/e2e/image-diff/visual-testing-cypress.cy.js",
+          "specFilename": "visual-testing-cypress.cy.js",
+          "baselinePath": "cypress-visual-screenshots/baseline/visual-testing-cypress.cy-view_cart.png",
+          "diffPath": "",
+          "comparisonPath": "cypress-visual-screenshots/comparison/visual-testing-cypress.cy-view_cart.png"
+        }
+      ]
+    }
+  ],
+  "startedAt": "2025-05-22T15:17:20.286Z",
+  "endedAt": "2025-05-22T15:18:05.219Z",
+  "duration": 39083,
+  "browserName": "electron",
+  "browserVersion": "118.0.5993.159",
+  "cypressVersion": "13.17.0"
+}
