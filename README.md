@@ -96,4 +96,3 @@ the scenarios used during automation were the following
 >Authors:  
 >  Raptor Team :t-rex:
 >  That's it, We hope you like it
->  
